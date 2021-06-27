@@ -19,4 +19,4 @@ python main.py
 - You are now ready to download any video you want!
 ---
 ## Application images
-1 .![alt text](https://github.com/shashank-g12/YouTube-Downloader/blob/main/Images/ytd-1.png)
+1. ![alt text](https://github.com/shashank-g12/YouTube-Downloader/blob/main/Images/ytd-1.png)
