@@ -20,3 +20,4 @@ python main.py
 ---
 ## Application images
 1. ![alt text](https://github.com/shashank-g12/YouTube-Downloader/blob/main/Images/ytd-1.png)
+2. ![alt text](https://github.com/shashank-g12/YouTube-Downloader/blob/main/Images/ytd-2.png)
